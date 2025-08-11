@@ -2,6 +2,8 @@
 
 Notion 링크 https://economic-kettle-c2e.notion.site/RSPGame-1d5c01e9d6ba81a29647ea8fcc597011?source=copy_link
 
+게임 빌드 파일 링크 https://drive.google.com/file/d/1_zOLUZMijt3lPCauqU8KQAiIwML83uos/view?usp=drive_link
+
 가위바위보로 컴퓨터를 이겨라!
 
 유니티 입문 수업에서 제공된 코드를 참고하며 따라 만든 학습용 프로젝트입니다.
